@@ -16,7 +16,7 @@
     "cloud": {
         "workspace": false,
         "packages": true,
-        "thumbnails": true,
+        "thumbnails": false,
         "sharing": false,
         "publishing": false,
         "importing": false,
