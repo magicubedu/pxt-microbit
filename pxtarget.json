@@ -16,10 +16,10 @@
     "cloud": {
         "workspace": false,
         "packages": true,
-        "sharing": true,
         "thumbnails": true,
-        "publishing": true,
-        "importing": true,
+        "sharing": false,
+        "publishing": false,
+        "importing": false,
         "preferredPackages": [
             "Microsoft/pxt-neopixel"
         ],
@@ -469,6 +469,7 @@
         "simGifMaxFrames": 44,
         "simScreenshotMaxUriLength": 300000,
         "importExtensionFiles": true,
-		"hideMenuBar": true
+		"hideMenuBar": true,
+		"hideSideDocs": true
     }
 }
