@@ -469,7 +469,7 @@
         "simGifMaxFrames": 44,
         "simScreenshotMaxUriLength": 300000,
         "importExtensionFiles": true,
-		"hideMenuBar": true,
-		"hideSideDocs": true
+        "hideMenuBar": true,
+        "hideSideDocs": true
     }
 }
