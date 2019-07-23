@@ -290,6 +290,7 @@
         "appStoreID": "1092687276",
         "mobileSafariDownloadProtocol": "microbithex://?data",
         "crowdinProject": "kindscript",
+        "disableLiveTranslations": true,
         "extendEditor": true,
         "extendFieldEditors": true,
         "enableTrace": true,
