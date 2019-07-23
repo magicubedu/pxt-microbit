@@ -31,6 +31,11 @@ Check out [microbit.org](http://microbit.org/resellers/) for more information on
   "name": "4tronix BitBot",
   "url":"/pkg/4tronix/BitBot",
   "cardType": "package"
+},
+{
+  "name": "4tronix MiniBit",
+  "url":"/pkg/4tronix/MiniBit",
+  "cardType": "package"
 }, {
   "name": "SRS BitBot",
   "url":"/pkg/srs/pxt-bitbot",
@@ -238,8 +243,11 @@ Check out [microbit.org](http://microbit.org/resellers/) for more information on
     "name": "MakerBit Pins",
     "url": "/pkg/1010Technologies/pxt-makerbit-pins",
     "cardType": "package"
-},
-{
+}, {
+    "name": "Elecfreaks Wukon",
+    "url": "/pkg/elecfreaks/pxt-wukong",
+    "cardType": "package"
+}, {
    "name": "Pi Supply tinker:kit",
    "url": "/pkg/PiSupply/pxt-tinker-kit",
    "cardType": "package"
@@ -437,6 +445,10 @@ Check out [microbit.org](http://microbit.org/resellers/) for more information on
 }, {
     "name": "Keigan Motor",
     "url": "/pkg/keigan-motor/pxt-KeiganMotor",
+    "cardType": "package"
+}, {
+    "name": "Kitronik :VIEW text32",
+    "url": "/pkg/KitronikLtd/pxt-kitronik-viewtext32",
     "cardType": "package"
 }]
 ```
