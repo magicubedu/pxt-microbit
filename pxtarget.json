@@ -17,10 +17,10 @@
     "cloud": {
         "workspace": false,
         "packages": true,
-        "sharing": true,
-        "thumbnails": true,
-        "publishing": true,
-        "importing": true,
+        "sharing": false,
+        "thumbnails": false,
+        "publishing": false,
+        "importing": false,
         "preferredPackages": [
             "Microsoft/pxt-neopixel"
         ],
@@ -375,7 +375,7 @@
                 "path": "https://microbit.org/resellers"
             }
         ],
-        "hasReferenceDocs": true,
+        "hasReferenceDocs": false,
         "usbDocs": "/device/usb",
         "usbHelp": [
             {
@@ -516,7 +516,7 @@
         "editorVersionPaths": {
             "0": "v0"
         },
-        "showProjectSettings": true,
+        "showProjectSettings": false,
         "scriptManager": true,
         "debugger": true,
         "simGifTransparent": "rgba(0,0,0,0)",
@@ -529,7 +529,9 @@
         "chooseLanguageRestrictionOnNewProject": true,
         "openProjectNewTab": true,
         "python": true,
-        "appFlashingTroubleshoot": "/device/windows-app/troubleshoot"
+        "appFlashingTroubleshoot": "/device/windows-app/troubleshoot",
+        "hideMenuBar": true,
+        "hideSideDocs": true
     },
     "queryVariants": {
         "hidemenu": {
