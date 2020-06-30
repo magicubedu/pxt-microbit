@@ -531,7 +531,8 @@
         "python": true,
         "appFlashingTroubleshoot": "/device/windows-app/troubleshoot",
         "hideMenuBar": true,
-        "hideSideDocs": true
+        "hideSideDocs": true,
+        "dontSuspendOnVisibility": true
     },
     "queryVariants": {
         "hidemenu": {
