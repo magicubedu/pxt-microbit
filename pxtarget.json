@@ -420,67 +420,67 @@
             }
         ],
         "hasReferenceDocs": false,
-        "usbDocs": "/device/usb",
+        "usbDocs": "./device/usb",
         "usbHelp": [
             {
                 "name": "connection",
                 "os": "*",
                 "browser": "*",
-                "path": "/static/mb/device/usb-generic.jpg"
+                "path": "./static/mb/device/usb-generic.jpg"
             },
             {
                 "name": "connection",
                 "os": "mac",
                 "browser": "*",
-                "path": "/static/mb/device/usb-mac.jpg"
+                "path": "./static/mb/device/usb-mac.jpg"
             },
             {
                 "name": "save",
                 "os": "windows",
                 "browser": "firefox",
-                "path": "/static/mb/device/usb-windows-firefox-1.png"
+                "path": "./static/mb/device/usb-windows-firefox-1.png"
             },
             {
                 "name": "save",
                 "os": "mac",
                 "browser": "firefox",
-                "path": "/static/mb/device/usb-osx-firefox-1.jpg"
+                "path": "./static/mb/device/usb-osx-firefox-1.jpg"
             },
             {
                 "name": "save",
                 "os": "mac",
                 "browser": "chrome",
-                "path": "/static/mb/device/usb-osx-chrome.png"
+                "path": "./static/mb/device/usb-osx-chrome.png"
             },
             {
                 "name": "save",
                 "os": "windows",
                 "browser": "edge",
-                "path": "/static/mb/device/usb-windows-edge-1.png"
+                "path": "./static/mb/device/usb-windows-edge-1.png"
             },
             {
                 "name": "save",
                 "os": "windows",
                 "browser": "ie",
-                "path": "/static/mb/device/usb-windows-ie11-1.png"
+                "path": "./static/mb/device/usb-windows-ie11-1.png"
             },
             {
                 "name": "save",
                 "os": "windows",
                 "browser": "chrome",
-                "path": "/static/mb/device/usb-windows-chrome.png"
+                "path": "./static/mb/device/usb-windows-chrome.png"
             },
             {
                 "name": "copy",
                 "os": "mac",
                 "browser": "*",
-                "path": "/static/mb/device/usb-osx-dnd.png"
+                "path": "./static/mb/device/usb-osx-dnd.png"
             },
             {
                 "name": "copy",
                 "os": "windows",
                 "browser": "*",
-                "path": "/static/mb/device/usb-windows-sendto.jpg"
+                "path": "./static/mb/device/usb-windows-sendto.jpg"
             }
         ],
         "hideHomeDetailsVideo": true,
@@ -575,7 +575,7 @@
         "chooseLanguageRestrictionOnNewProject": true,
         "openProjectNewTab": true,
         "python": true,
-        "appFlashingTroubleshoot": "/device/windows-app/troubleshoot",
+        "appFlashingTroubleshoot": "./device/windows-app/troubleshoot",
         "hideMenuBar": true,
         "hideSideDocs": true,
         "immersiveReader": true,
@@ -586,21 +586,21 @@
             "deviceIcon": "xicon microbit",
             "deviceSuccessIcon": "xicon microbit-check",
 
-            "downloadMenuHelpURL" : "/device/usb",
-            "downloadHelpURL" : "/device/usb",
-            "firmwareHelpURL": "/device/usb/webusb/troubleshoot",
-            "troubleshootWebUSBHelpURL": "/device/usb/webusb/troubleshoot",
-            "incompatibleHardwareHelpURL": "/device/v2",
+            "downloadMenuHelpURL" : "./device/usb",
+            "downloadHelpURL" : "./device/usb",
+            "firmwareHelpURL": "./device/usb/webusb/troubleshoot",
+            "troubleshootWebUSBHelpURL": "./device/usb/webusb/troubleshoot",
+            "incompatibleHardwareHelpURL": "./device/v2",
 
-            "dragFileImage": "/static/download/transfer.png",
-            "connectDeviceImage": "/static/download/connect.png",
-            "selectDeviceImage": "/static/download/pair.png",
-            "connectionSuccessImage": "/static/download/connected.png",
-            "checkFirmwareVersionImage": "/static/download/firmware.png",
-            "checkUSBCableImage": "/static/download/connect.png",
-            "incompatibleHardwareImage": "/static/download/incompatible.png"
+            "dragFileImage": "./static/download/transfer.png",
+            "connectDeviceImage": "./static/download/connect.png",
+            "selectDeviceImage": "./static/download/pair.png",
+            "connectionSuccessImage": "./static/download/connected.png",
+            "checkFirmwareVersionImage": "./static/download/firmware.png",
+            "checkUSBCableImage": "./static/download/connect.png",
+            "incompatibleHardwareImage": "./static/download/incompatible.png"
         },
-        "winAppDeprImage": "/static/winapp.PNG",
+        "winAppDeprImage": "./static/winapp.PNG",
         "showWinAppDeprBanner": false
     },
     "queryVariants": {
