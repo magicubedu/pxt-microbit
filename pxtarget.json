@@ -20,10 +20,10 @@
     "cloud": {
         "workspace": false,
         "packages": true,
-        "sharing": true,
-        "thumbnails": true,
-        "publishing": true,
-        "importing": true,
+        "sharing": false,
+        "thumbnails": false,
+        "publishing": false,
+        "importing": false,
         "preferredPackages": [
             "Microsoft/pxt-neopixel"
         ],
@@ -419,7 +419,7 @@
                 "path": "https://microbit.org/resellers"
             }
         ],
-        "hasReferenceDocs": true,
+        "hasReferenceDocs": false,
         "usbDocs": "/device/usb",
         "usbHelp": [
             {
@@ -576,6 +576,8 @@
         "openProjectNewTab": true,
         "python": true,
         "appFlashingTroubleshoot": "/device/windows-app/troubleshoot",
+        "hideMenuBar": true,
+        "hideSideDocs": true,
         "immersiveReader": true,
         "tutorialCodeValidation": true,
         "downloadDialogTheme": {
