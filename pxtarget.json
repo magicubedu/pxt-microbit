@@ -420,7 +420,7 @@
             }
         ],
         "hasReferenceDocs": false,
-        "usbDocs": "./device/usb",
+        "usbDocs": "https://makecode.microbit.org/device/usb",
         "usbHelp": [
             {
                 "name": "connection",
@@ -586,11 +586,11 @@
             "deviceIcon": "xicon microbit",
             "deviceSuccessIcon": "xicon microbit-check",
 
-            "downloadMenuHelpURL" : "./device/usb",
-            "downloadHelpURL" : "./device/usb",
-            "firmwareHelpURL": "./device/usb/webusb/troubleshoot",
-            "troubleshootWebUSBHelpURL": "./device/usb/webusb/troubleshoot",
-            "incompatibleHardwareHelpURL": "./device/v2",
+            "downloadMenuHelpURL" : "https://makecode.microbit.org/device/usb",
+            "downloadHelpURL" : "https://makecode.microbit.org/device/usb",
+            "firmwareHelpURL": "https://makecode.microbit.org/device/usb/webusb/troubleshoot",
+            "troubleshootWebUSBHelpURL": "https://makecode.microbit.org/device/usb/webusb/troubleshoot",
+            "incompatibleHardwareHelpURL": "https://makecode.microbit.org/device/v2",
 
             "dragFileImage": "./static/download/transfer.png",
             "connectDeviceImage": "./static/download/connect.png",
