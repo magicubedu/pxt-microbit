@@ -380,7 +380,6 @@
         "boardNickname": "micro:bit",
         "driveDisplayName": "MICROBIT",
         "appStoreID": "1092687276",
-        "mobileSafariDownloadProtocol": "microbithex://?data",
         "crowdinProject": "makecode",
         "extendEditor": true,
         "extendFieldEditors": true,
