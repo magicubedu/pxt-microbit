@@ -13,7 +13,7 @@
 
 #filelist, #editortools {
     /* Special textured backgrounds, but we only have assets for light theme */
-    background: #fff url("/static/logo_texture.png") 0 0 repeat !important;
+    background: #fff url("./static/logo_texture.png") 0 0 repeat !important;
 }
 
 /*
