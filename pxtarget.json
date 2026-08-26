@@ -422,8 +422,7 @@
         "allowPackageExtensions": true,
         "addNewTypeScriptFile": true,
         "enabledFeatures": {
-            "blocksErrorList": {},
-            "aiErrorHelp": {}
+            "blocksErrorList": {}
         },
         "experiments": [
             "debugExtensionCode",
